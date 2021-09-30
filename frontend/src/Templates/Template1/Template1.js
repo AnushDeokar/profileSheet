@@ -7,6 +7,8 @@ import Projects1 from "./Projects1/Projects1";
 import Contact1 from "./Contact1/Contact1";
 import Footer1 from "./Footer1/Footer1";
 
+
+
 export const Template1 = () => {
     return (
         <div>

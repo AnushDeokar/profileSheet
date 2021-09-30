@@ -1,5 +1,5 @@
 #navbar {
-    padding: 0px;
+    padding: 10px;
     /* background-color: beige; */
     display: grid;
     margin: 0;
@@ -10,6 +10,10 @@
     text-decoration: none;
     padding: 0px 10px;
     text-align: center;
+}
+#leftNavbarColumn h2 {
+    font-size: 2rem;
+    font-weight: 600;
 }
 
 #rightNavbarColumn {
