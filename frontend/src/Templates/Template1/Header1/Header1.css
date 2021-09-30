@@ -4,8 +4,9 @@ body {
 }
 #navbar1 {
     padding: 0px;
-    background-color: beige;
+    /* background-color: beige; */
     display: grid;
+    margin: 0;
     grid-template-columns: 20% 20% 60%;
 }
 
