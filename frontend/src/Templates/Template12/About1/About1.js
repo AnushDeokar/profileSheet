@@ -8,7 +8,7 @@ export const About1 = () => {
     return (
         <div id="about1">
             <div id="left-about-1">
-                <h1>Hii I'm Aryan</h1>
+                <h1>Hii I'm Anush</h1>
                 <h2>Senior Full Stack Web Developer!</h2>
                 <div style={styles}>
                     <button>Hire Me</button>

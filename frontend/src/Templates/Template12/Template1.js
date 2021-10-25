@@ -7,9 +7,14 @@ import Projects1 from "./Projects1/Projects1";
 import Contact1 from "./Contact1/Contact1";
 import Footer1 from "./Footer1/Footer1";
 
+import {useEffect } from 'react';
+
 
 
 export const Template1 = () => {
+    useEffect(() => {
+        window.scrollTo(0, 0);
+    }, [])
     return (
         <div>
             <Header />
